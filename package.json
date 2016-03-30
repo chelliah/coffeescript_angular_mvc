@@ -1,0 +1,27 @@
+{
+  "name": "coffeescript_mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "aron thomas",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/router": "^0.2.0",
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3",
+    "body-parser": "^1.15.0",
+    "coffee-script": "^1.10.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7",
+    "path": "^0.12.7"
+  }
+}
